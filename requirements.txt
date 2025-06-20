@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+camel-ai
+requests
+arxiv
+astor
+arxiv2text
+mistralai
